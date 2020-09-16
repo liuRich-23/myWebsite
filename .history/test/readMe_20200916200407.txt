@@ -4,6 +4,6 @@ this is branch1 third modify
 this is branch1 forth modify
 this is branch1 five modify
 this is six modify
+this is six modify
 this is seven modify
 this is eight commit
-this is seven modify
