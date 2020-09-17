@@ -12,3 +12,6 @@ branch2 modify
 
 branch2 modify2 add
 branch2 m odify3
+
+将工作区恢复到暂存区 
+
